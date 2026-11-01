@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 240" width="960" height="240">
+<rect x="1" y="1" width="958" height="238" rx="14" fill="#FAF9F6" stroke="#E4E2DC" stroke-width="1.5"/>
+<rect x="330" y="90" width="110" height="50" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<text x="385" y="115" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">999.0</text>
+<rect x="440" y="90" width="110" height="50" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<text x="495" y="115" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">38.1</text>
+<rect x="550" y="90" width="110" height="50" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="605" y="115" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">4.0</text>
+<path d="M 330 80 L 330 64 L 660 64 L 660 80" stroke="#2F6FDE" stroke-width="2.5" fill="none"/>
+<text x="495" y="42" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="22" fill="#2F6FDE" text-anchor="middle" dominant-baseline="central" font-weight="600">a</text>
+<path d="M 330 150 L 330 166 L 550 166 L 550 150" stroke="#D9691E" stroke-width="2.5" fill="none"/>
+<text x="440" y="190" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#D9691E" text-anchor="middle" dominant-baseline="central">b = a[:2]  — a view: the same memory</text>
+<text x="495" y="222" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#6B7280" text-anchor="middle" dominant-baseline="central">b[0] = 999.0 changes a too.  Use a[:2].copy() for your own block.</text>
+
+</svg>

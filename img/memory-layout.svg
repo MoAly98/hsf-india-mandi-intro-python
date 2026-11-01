@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 240" width="960" height="240">
+<rect x="1" y="1" width="958" height="238" rx="14" fill="#FAF9F6" stroke="#E4E2DC" stroke-width="1.5"/>
+<text x="130" y="40" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="24" fill="#1F2A44" text-anchor="end" dominant-baseline="central" font-weight="600">list</text>
+<rect x="150" y="24" width="90" height="34" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="195" y="41" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central">ptr</text>
+<rect x="240" y="24" width="90" height="34" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="285" y="41" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central">ptr</text>
+<rect x="330" y="24" width="90" height="34" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="375" y="41" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central">ptr</text>
+<rect x="130" y="103" width="110" height="40" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="185" y="123" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="20" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">63.0</text>
+<text x="185" y="152" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#6B7280" text-anchor="middle" dominant-baseline="central">float object</text>
+<rect x="300" y="163" width="110" height="40" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="355" y="183" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="20" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">38.1</text>
+<text x="355" y="212" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#6B7280" text-anchor="middle" dominant-baseline="central">float object</text>
+<rect x="420" y="93" width="110" height="40" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="475" y="113" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="20" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">4.0</text>
+<text x="475" y="142" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#6B7280" text-anchor="middle" dominant-baseline="central">float object</text>
+<path d="M 195 58 L 184.70870955797417 86.81561323767228" stroke="#6B7280" stroke-width="3" fill="none"/>
+<path d="M 180 100 L 191.30090293913804 89.16996801665937 L 178.1165161768103 84.4612584586852 z" fill="#6B7280"/>
+<path d="M 285 58 L 342.47625491946246 148.19350771977184" stroke="#6B7280" stroke-width="3" fill="none"/>
+<path d="M 350 160 L 348.37950105957657 144.43163517950308 L 336.57300877934836 151.9553802600406 z" fill="#6B7280"/>
+<path d="M 375 58 L 456.73246573701635 85.53093582720551" stroke="#6B7280" stroke-width="3" fill="none"/>
+<path d="M 470 90 L 458.9669978234136 78.89716869571369 L 454.49793365061913 92.16470295869733 z" fill="#6B7280"/>
+<text x="700" y="40" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="24" fill="#1F2A44" text-anchor="end" dominant-baseline="central" font-weight="600">array</text>
+<rect x="715" y="24" width="75" height="34" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<text x="752" y="41" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="17" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">63.0</text>
+<rect x="790" y="24" width="75" height="34" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<text x="827" y="41" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="17" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">38.1</text>
+<rect x="865" y="24" width="75" height="34" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<text x="902" y="41" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="17" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">4.0</text>
+<text x="830" y="90" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#6B7280" text-anchor="middle" dominant-baseline="central">one block, one dtype</text>
+<text x="260" y="215" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#6B7280" text-anchor="middle" dominant-baseline="central">every element checked, every time</text>
+<text x="830" y="215" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#6B7280" text-anchor="middle" dominant-baseline="central">checked once, swept by compiled code</text>
+
+</svg>

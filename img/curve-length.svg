@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 240" width="960" height="240">
+<rect x="1" y="1" width="958" height="238" rx="14" fill="#FAF9F6" stroke="#E4E2DC" stroke-width="1.5"/>
+<polyline points="80,210 145,207 210,200 275,186 340,168 405,144 470,116 535,81 600,42" fill="none" stroke="#2F6FDE" stroke-width="3"/>
+<circle cx="80" cy="210" r="5" fill="#D9691E"/>
+<circle cx="145" cy="207" r="5" fill="#D9691E"/>
+<circle cx="210" cy="200" r="5" fill="#D9691E"/>
+<circle cx="275" cy="186" r="5" fill="#D9691E"/>
+<circle cx="340" cy="168" r="5" fill="#D9691E"/>
+<circle cx="405" cy="144" r="5" fill="#D9691E"/>
+<circle cx="470" cy="116" r="5" fill="#D9691E"/>
+<circle cx="535" cy="81" r="5" fill="#D9691E"/>
+<circle cx="600" cy="42" r="5" fill="#D9691E"/>
+<text x="90" y="50" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="start" dominant-baseline="central">y = x², sampled</text>
+<path d="M 700 190 L 850 190 L 850 80 z" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2.5"/>
+<text x="775" y="210" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">dx</text>
+<text x="862" y="135" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="start" dominant-baseline="central">dy</text>
+<text x="730" y="110" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#D9691E" text-anchor="middle" dominant-baseline="central" font-weight="600">√(dx² + dy²)</text>
+<text x="775" y="50" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#6B7280" text-anchor="middle" dominant-baseline="central">dx = x[1:] - x[:-1] — one step, held for all steps</text>
+
+</svg>

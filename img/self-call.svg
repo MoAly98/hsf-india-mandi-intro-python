@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 240" width="960" height="240">
+<rect x="1" y="1" width="958" height="238" rx="14" fill="#FAF9F6" stroke="#E4E2DC" stroke-width="1.5"/>
+<text x="300" y="95" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="26" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">mu.flipped()</text>
+<path d="M 420 95 L 526.0 95.0" stroke="#D9691E" stroke-width="3" fill="none"/>
+<path d="M 540 95 L 526.0 88.0 L 526.0 102.0 z" fill="#D9691E"/>
+<text x="480" y="70" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#6B7280" text-anchor="middle" dominant-baseline="central">Python rewrites it</text>
+<text x="700" y="95" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="26" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">Muon.flipped(mu)</text>
+<rect x="652" y="120" width="60" height="30" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<text x="700" y="160" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#D9691E" text-anchor="middle" dominant-baseline="central">this argument is self</text>
+
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 240" width="960" height="240">
+<rect x="1" y="1" width="958" height="238" rx="14" fill="#FAF9F6" stroke="#E4E2DC" stroke-width="1.5"/>
+<rect x="60" y="85" width="150" height="54" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="135.0" y="112" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="19" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">np.sqrt(-1.0)</text>
+<path d="M 214 112 L 230.0 112.0" stroke="#6B7280" stroke-width="3" fill="none"/>
+<path d="M 244 112 L 230.0 105.0 L 230.0 119.0 z" fill="#6B7280"/>
+<rect x="250" y="85" width="100" height="54" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<text x="300.0" y="112" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="19" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">nan</text>
+<path d="M 354 112 L 370.0 112.0" stroke="#6B7280" stroke-width="3" fill="none"/>
+<path d="M 384 112 L 370.0 105.0 L 370.0 119.0 z" fill="#6B7280"/>
+<rect x="390" y="85" width="100" height="54" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<text x="440.0" y="112" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="19" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">nan + 10</text>
+<path d="M 494 112 L 510.0 112.0" stroke="#6B7280" stroke-width="3" fill="none"/>
+<path d="M 524 112 L 510.0 105.0 L 510.0 119.0 z" fill="#6B7280"/>
+<rect x="530" y="85" width="150" height="54" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<text x="605.0" y="112" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="19" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">np.sum(...)</text>
+<path d="M 684 112 L 700.0 112.0" stroke="#6B7280" stroke-width="3" fill="none"/>
+<path d="M 714 112 L 700.0 105.0 L 700.0 119.0 z" fill="#6B7280"/>
+<rect x="720" y="85" width="100" height="54" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<text x="770.0" y="112" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="19" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">nan</text>
+<text x="480" y="195" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#6B7280" text-anchor="middle" dominant-baseline="central">a warning, not an error — and it flows silently through every later step</text>
+<text x="480" y="225" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">nan == nan  is  False:  find it with  np.isnan(x)</text>
+
+</svg>
