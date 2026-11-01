@@ -1,35 +1,29 @@
-# Python for HEP analysis: HSF-India
+# HSF-India 2026 tutorial: Introduction to Scientific Python
 
-An introduction to Python, NumPy, classes and Awkward Array for particle physics, in four lessons.
-Each lesson is a short lecture followed by a longer project.
-Across the projects you rebuild one analysis, the search for H → ZZ → 4 leptons in simulated CMS collisions, with each new tool.
+This repository contains everything you need to follow the "[Introduction to Scientific Python](https://indico.cern.ch/event/1724888/contributions/7255053/)" tutorial, presented at the [HSF-India Scientific Computing Workshop](https://indico.cern.ch/event/1724888/) at IIT Mandi on [Monday, November 2, 2026, 2–6 p.m. IST](https://indico.cern.ch/event/1724888/timetable/).
 
-No earlier Python experience is assumed.
-The lessons prepare for the later lectures of the school on Awkward Array, HEP analysis and coffea.
+## Internet connectivity
 
-## The lessons
+> [!IMPORTANT]
+> **Strongly recommended: pre-download the lesson 4 taxi dataset before the tutorial.** The taxi project otherwise streams a 611 MB Parquet file during the tutorial, which depends on the venue's Wi-Fi.
 
-Each `lesson-*` directory has
+1. Set up the notebooks using one of the options below.
+2. Download the Chicago taxi Parquet file and place it at `lesson-4-awkward/chicago-taxi.parquet`.
 
-- `lecture-slides.ipynb`: what the instructor presents
-- `lecture-workbook.ipynb`: what you open to follow along, with room to try things
-- `project-*.ipynb`: what you work through after the lecture
+   with `curl`:
+   ```shell
+   curl -L -o lesson-4-awkward/chicago-taxi.parquet https://test-files.awkward-array.org/chicago-taxi.parquet
+   ```
+   or with `wget`:
+   ```shell
+   wget -O lesson-4-awkward/chicago-taxi.parquet https://test-files.awkward-array.org/chicago-taxi.parquet
+   ```
+   Then change the `"https://test-files.awkward-array.org/chicago-taxi.parquet"` strings in `lesson-4-awkward/project-1-taxi.ipynb` and `lesson-4-awkward/solutions-1-taxi.ipynb` to `"chicago-taxi.parquet"`.
 
-| Lesson | Higgs project | Alternative project |
-|---|---|---|
-| `lesson-1-python` | one event at a time, in pure Python | |
-| `lesson-2-numpy` | the same analysis on whole columns | `project-life`: Conway's Game of Life |
-| `lesson-3-classes` | a four-vector class that runs the whole analysis | `project-words`: counting words with classes |
-| `lesson-4-awkward` | every combination of leptons in every event | `project-1-taxi`: path lengths of Chicago taxi trips |
+On BinderHub or MyBinder, run the download in a terminal inside your session, from the repository directory. The file is gone when the session ends, so download it again in a new session.
+JupyterLite has no terminal, so use one of the other options for the taxi project.
 
-Lessons 2 to 4 have two projects that teach the same moves. Do the one that appeals to you; the Higgs project continues the analysis.
-
-The slides are notebooks: click **Toggle Deck** in the notebook toolbar to present them.
-Every code cell on a slide can be run live.
-
-Each project is split into parts.
-Every part ends with a `check` cell that prints ✅ when your answer is right and a hint when it is not yet right.
-If you are stuck for more than five minutes, ask an instructor.
+With a local setup and those two steps done, you need **no internet at all** during the tutorial.
 
 ## Option 0: BinderHub (no installation)
 
@@ -145,15 +139,3 @@ conda env create -f environment.yml
 conda activate hsf-india-mandi-scientific-python
 jupyter lab
 ```
-
-## Data
-
-`data/SMHiggsToZZTo4L.parquet` holds 299,973 simulated events in which a Higgs boson decays to four leptons, derived from CMS Open Data.
-`tools/make_data.py` makes the two smaller files from it:
-
-- `data/higgs_events.json`: the first 50,000 events as Python lists and dictionaries (project 1)
-- `data/higgs_eemumu.npz`: the 30,868 events with exactly two electrons and two muons, as flat arrays (projects 2 and 3)
-
-It also downloads and prepares the data for the word-count project, from a public-domain source:
-
-- `data/alice_chapters.json`: the chapters of *Alice's Adventures in Wonderland*, from [Project Gutenberg](https://www.gutenberg.org/ebooks/11)
