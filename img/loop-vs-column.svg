@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 290" width="960" height="290">
+<rect x="1" y="1" width="958" height="288" rx="14" fill="#FAF9F6" stroke="#E4E2DC" stroke-width="1.5"/>
+<text x="240" y="34" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">loop: one value at a time</text>
+<rect x="46" y="128" width="90" height="52" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="91.0" y="154.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">63.0</text>
+<rect x="142" y="128" width="90" height="52" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="187.0" y="154.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">38.1</text>
+<rect x="238" y="128" width="90" height="52" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="283.0" y="154.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">4.0</text>
+<rect x="334" y="128" width="90" height="52" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="379.0" y="154.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">54.3</text>
+<line x1="91.0" y1="86" x2="91.0" y2="122" stroke="#D9691E" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="91.0,122.0 86.2,112.1 95.8,112.1" fill="#D9691E"/>
+<text x="91.0" y="70" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" fill="#D9691E" text-anchor="middle" dominant-baseline="central" font-weight="600">step 1</text>
+<line x1="187.0" y1="86" x2="187.0" y2="122" stroke="#D9691E" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="187.0,122.0 182.2,112.1 191.8,112.1" fill="#D9691E"/>
+<text x="187.0" y="70" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" fill="#D9691E" text-anchor="middle" dominant-baseline="central" font-weight="600">step 2</text>
+<line x1="283.0" y1="86" x2="283.0" y2="122" stroke="#D9691E" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="283.0,122.0 278.2,112.1 287.8,112.1" fill="#D9691E"/>
+<text x="283.0" y="70" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" fill="#D9691E" text-anchor="middle" dominant-baseline="central" font-weight="600">step 3</text>
+<line x1="379.0" y1="86" x2="379.0" y2="122" stroke="#D9691E" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="379.0,122.0 374.2,112.1 383.8,112.1" fill="#D9691E"/>
+<text x="379.0" y="70" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" fill="#D9691E" text-anchor="middle" dominant-baseline="central" font-weight="600">step 4</text>
+<text x="240" y="214" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">Python works out the type</text>
+<text x="240" y="240" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">and the operation at every step</text>
+<line x1="480" y1="30" x2="480" y2="262" stroke="#E4E2DC" stroke-width="2" stroke-linecap="round"/>
+<text x="720" y="34" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">array: the whole column at once</text>
+<rect x="518" y="120" width="394" height="68" rx="12" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<rect x="526" y="128" width="90" height="52" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="571.0" y="154.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">63.0</text>
+<rect x="622" y="128" width="90" height="52" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="667.0" y="154.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">38.1</text>
+<rect x="718" y="128" width="90" height="52" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="763.0" y="154.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">4.0</text>
+<rect x="814" y="128" width="90" height="52" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="859.0" y="154.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">54.3</text>
+<line x1="720" y1="78" x2="720" y2="114" stroke="#D9691E" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="720.0,114.0 715.2,104.1 724.8,104.1" fill="#D9691E"/>
+<text x="720" y="62" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" fill="#D9691E" text-anchor="middle" dominant-baseline="central" font-weight="600">one step</text>
+<text x="720" y="214" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">the type is known once,</text>
+<text x="720" y="240" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">the loop runs in compiled code</text>
+</svg>

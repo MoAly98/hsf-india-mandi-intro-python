@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 200" width="960" height="200">
+<rect x="1" y="1" width="958" height="198" rx="14" fill="#FAF9F6" stroke="#E4E2DC" stroke-width="1.5"/>
+<text x="170" y="52" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">input</text>
+<rect x="80" y="74" width="180" height="66" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="170" y="96" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="19" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">pt 63.0</text>
+<text x="170" y="121" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="19" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">charge 1</text>
+<line x1="272" y1="107" x2="368" y2="107" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="368.0,107.0 358.1,111.8 358.1,102.2" fill="#6B7280"/>
+<rect x="380" y="68" width="200" height="78" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<text x="480.0" y="107.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="25" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">is_good</text>
+<line x1="592" y1="107" x2="688" y2="107" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="688.0,107.0 678.1,111.8 678.1,102.2" fill="#6B7280"/>
+<text x="790" y="52" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">output</text>
+<rect x="700" y="74" width="180" height="66" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="790.0" y="107.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="23" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">True</text>
+<text x="480" y="172" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">a named block of code</text>
+</svg>

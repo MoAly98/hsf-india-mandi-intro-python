@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 230" width="960" height="230">
+<rect x="1" y="1" width="958" height="228" rx="14" fill="#FAF9F6" stroke="#E4E2DC" stroke-width="1.5"/>
+<text x="150.0" y="40" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="22" fill="#D9691E" text-anchor="middle" dominant-baseline="central" font-weight="600">int</text>
+<rect x="55.0" y="66" width="190" height="76" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="150.0" y="104.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="27" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">3</text>
+<text x="150.0" y="174" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="19" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">a count</text>
+<text x="370.0" y="40" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="22" fill="#D9691E" text-anchor="middle" dominant-baseline="central" font-weight="600">float</text>
+<rect x="275.0" y="66" width="190" height="76" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="370.0" y="104.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="27" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">63.0</text>
+<text x="370.0" y="174" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="19" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">a measurement</text>
+<text x="590.0" y="40" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="22" fill="#D9691E" text-anchor="middle" dominant-baseline="central" font-weight="600">str</text>
+<rect x="495.0" y="66" width="190" height="76" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="590.0" y="104.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="27" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">"muon"</text>
+<text x="590.0" y="174" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="19" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">a label</text>
+<text x="810.0" y="40" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="22" fill="#D9691E" text-anchor="middle" dominant-baseline="central" font-weight="600">bool</text>
+<rect x="715.0" y="66" width="190" height="76" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="810.0" y="104.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="27" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">True</text>
+<text x="810.0" y="174" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="19" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">yes or no</text>
+</svg>

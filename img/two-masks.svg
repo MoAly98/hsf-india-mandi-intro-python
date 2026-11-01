@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 320" width="960" height="320">
+<rect x="1" y="1" width="958" height="318" rx="14" fill="#FAF9F6" stroke="#E4E2DC" stroke-width="1.5"/>
+<text x="250" y="32" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">drop particles</text>
+<text x="250" y="58" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">mask has one value per muon</text>
+<text x="112" y="114.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="end" dominant-baseline="central" font-weight="400">event 0</text>
+<rect x="130" y="92" width="92" height="44" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="176.0" y="114.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="19" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">63.0</text>
+<rect x="228" y="92" width="92" height="44" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="274.0" y="114.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="19" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">38.1</text>
+<rect x="326" y="92" width="92" height="44" rx="8" fill="#FAF9F6" stroke="#B9C0CC" stroke-width="2" stroke-dasharray="6 6"/>
+<text x="372.0" y="114.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="19" fill="#B9C0CC" text-anchor="middle" dominant-baseline="central" font-weight="400">4.0</text>
+<text x="112" y="164.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="end" dominant-baseline="central" font-weight="400">event 1</text>
+<text x="134" y="164.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="19" fill="#6B7280" text-anchor="start" dominant-baseline="central" font-weight="400">[ ]</text>
+<text x="112" y="214.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="end" dominant-baseline="central" font-weight="400">event 2</text>
+<rect x="130" y="192" width="92" height="44" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="176.0" y="214.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="19" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">54.3</text>
+<rect x="228" y="192" width="92" height="44" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="274.0" y="214.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="19" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">23.5</text>
+<text x="112" y="264.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="end" dominant-baseline="central" font-weight="400">event 3</text>
+<rect x="130" y="242" width="92" height="44" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="176.0" y="264.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="19" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">41.2</text>
+<line x1="480" y1="24" x2="480" y2="296" stroke="#E4E2DC" stroke-width="2" stroke-linecap="round"/>
+<text x="730" y="32" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">drop events</text>
+<text x="730" y="58" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">mask has one value per event</text>
+<text x="592" y="114.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="end" dominant-baseline="central" font-weight="400">event 0</text>
+<rect x="610" y="92" width="92" height="44" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="656.0" y="114.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="19" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">63.0</text>
+<rect x="708" y="92" width="92" height="44" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="754.0" y="114.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="19" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">38.1</text>
+<rect x="806" y="92" width="92" height="44" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="852.0" y="114.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="19" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">4.0</text>
+<text x="592" y="164.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#B9C0CC" text-anchor="end" dominant-baseline="central" font-weight="400">event 1</text>
+<text x="614" y="164.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="19" fill="#B9C0CC" text-anchor="start" dominant-baseline="central" font-weight="400">[ ]</text>
+<text x="592" y="214.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="end" dominant-baseline="central" font-weight="400">event 2</text>
+<rect x="610" y="192" width="92" height="44" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="656.0" y="214.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="19" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">54.3</text>
+<rect x="708" y="192" width="92" height="44" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="754.0" y="214.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="19" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">23.5</text>
+<text x="592" y="264.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#B9C0CC" text-anchor="end" dominant-baseline="central" font-weight="400">event 3</text>
+<rect x="610" y="242" width="92" height="44" rx="8" fill="#FAF9F6" stroke="#B9C0CC" stroke-width="2" stroke-dasharray="6 6"/>
+<text x="656.0" y="264.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="19" fill="#B9C0CC" text-anchor="middle" dominant-baseline="central" font-weight="400">41.2</text>
+<line x1="604" y1="264.0" x2="708" y2="264.0" stroke="#B9C0CC" stroke-width="2" stroke-linecap="round"/>
+</svg>

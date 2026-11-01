@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 250" width="960" height="250">
+<rect x="1" y="1" width="958" height="248" rx="14" fill="#FAF9F6" stroke="#E4E2DC" stroke-width="1.5"/>
+<text x="150" y="34" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">all muons</text>
+<rect x="90" y="56" width="120" height="48" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="150.0" y="80.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">63.0</text>
+<rect x="90" y="114" width="120" height="48" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="150.0" y="138.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">38.1</text>
+<rect x="90" y="172" width="120" height="48" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="150.0" y="196.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">4.0</text>
+<line x1="224" y1="125" x2="356" y2="125" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="356.0,125.0 346.1,129.8 346.1,120.2" fill="#6B7280"/>
+<polygon points="480,60 604,125 480,190 356,125" fill="#FCE9D9" stroke="#D9691E" stroke-width="2" stroke-linejoin="round"/>
+<text x="480" y="125" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="22" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">pt &gt; 20 ?</text>
+<line x1="612" y1="125" x2="720" y2="125" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="720.0,125.0 710.1,129.8 710.1,120.2" fill="#6B7280"/>
+<text x="790" y="34" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">good</text>
+<rect x="730" y="56" width="120" height="48" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="790.0" y="80.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">63.0</text>
+<rect x="730" y="114" width="120" height="48" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="790.0" y="138.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">38.1</text>
+<rect x="730" y="172" width="120" height="48" rx="8" fill="#FAF9F6" stroke="#B9C0CC" stroke-width="2" stroke-dasharray="6 6"/>
+<text x="790.0" y="196.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#B9C0CC" text-anchor="middle" dominant-baseline="central" font-weight="400">4.0</text>
+<text x="664" y="104" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">keep</text>
+</svg>

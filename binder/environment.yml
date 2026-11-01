@@ -1,0 +1,18 @@
+# Environment for Binder, for local use and for the GitHub workflow.
+name: hsf-india-python
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - awkward=2.8.10
+  - hist>=2.9.0,<3
+  - ipykernel
+  - jupyterlab=4.4.4
+  - jupyterlab-deck=0.2.0
+  - matplotlib=3.10.3
+  - nbclient
+  - numpy=2.2.6
+  - pandas=2.3.0
+  - pyarrow=20.0.0
+  - scipy
+  - vector>=1.7.0,<2

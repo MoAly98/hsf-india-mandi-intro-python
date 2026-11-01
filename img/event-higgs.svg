@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 350" width="960" height="350">
+<rect x="1" y="1" width="958" height="348" rx="14" fill="#FAF9F6" stroke="#E4E2DC" stroke-width="1.5"/>
+<rect x="40" y="136" width="150" height="62" rx="8" fill="#2F6FDE" stroke="#2F6FDE" stroke-width="2"/>
+<text x="115.0" y="167.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="24" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central" font-weight="600">event</text>
+<rect x="250" y="30" width="150" height="46" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="325.0" y="53.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="20" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">"run"</text>
+<line x1="196" y1="167" x2="242" y2="53" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="242.0,53.0 242.7,64.0 233.9,60.4" fill="#6B7280"/>
+<line x1="406" y1="53" x2="452" y2="53" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="452.0,53.0 442.1,57.8 442.1,48.2" fill="#6B7280"/>
+<rect x="460" y="30" width="110" height="46" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="515.0" y="53.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="20" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">1</text>
+<rect x="250" y="92" width="150" height="46" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="325.0" y="115.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="20" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">"event"</text>
+<line x1="196" y1="167" x2="242" y2="115" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="242.0,115.0 239.0,125.6 231.9,119.2" fill="#6B7280"/>
+<line x1="406" y1="115" x2="452" y2="115" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="452.0,115.0 442.1,119.8 442.1,110.2" fill="#6B7280"/>
+<rect x="460" y="92" width="110" height="46" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="515.0" y="115.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="20" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">46548</text>
+<rect x="250" y="168" width="150" height="46" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<text x="325.0" y="191.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="20" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">"electron"</text>
+<line x1="196" y1="167" x2="242" y2="191" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="242.0,191.0 231.0,190.7 235.4,182.2" fill="#6B7280"/>
+<line x1="406" y1="191" x2="452" y2="191" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="452.0,191.0 442.1,195.8 442.1,186.2" fill="#6B7280"/>
+<rect x="460" y="162" width="190" height="58" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="472" y="178" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="15" fill="#6B7280" text-anchor="start" dominant-baseline="central" font-weight="400">pt</text>
+<text x="638" y="178" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="17" fill="#1F2A44" text-anchor="end" dominant-baseline="central" font-weight="400">48.0</text>
+<text x="472" y="202" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="15" fill="#6B7280" text-anchor="start" dominant-baseline="central" font-weight="400">charge</text>
+<text x="638" y="202" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="17" fill="#1F2A44" text-anchor="end" dominant-baseline="central" font-weight="400">+1</text>
+<rect x="660" y="162" width="190" height="58" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="672" y="178" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="15" fill="#6B7280" text-anchor="start" dominant-baseline="central" font-weight="400">pt</text>
+<text x="838" y="178" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="17" fill="#1F2A44" text-anchor="end" dominant-baseline="central" font-weight="400">42.4</text>
+<text x="672" y="202" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="15" fill="#6B7280" text-anchor="start" dominant-baseline="central" font-weight="400">charge</text>
+<text x="838" y="202" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="17" fill="#1F2A44" text-anchor="end" dominant-baseline="central" font-weight="400">-1</text>
+<rect x="250" y="250" width="150" height="46" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<text x="325.0" y="273.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="20" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">"muon"</text>
+<line x1="196" y1="167" x2="242" y2="273" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="242.0,273.0 233.7,265.8 242.4,262.0" fill="#6B7280"/>
+<line x1="406" y1="273" x2="452" y2="273" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="452.0,273.0 442.1,277.8 442.1,268.2" fill="#6B7280"/>
+<rect x="460" y="244" width="190" height="58" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="472" y="260" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="15" fill="#6B7280" text-anchor="start" dominant-baseline="central" font-weight="400">pt</text>
+<text x="638" y="260" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="17" fill="#1F2A44" text-anchor="end" dominant-baseline="central" font-weight="400">22.3</text>
+<text x="472" y="284" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="15" fill="#6B7280" text-anchor="start" dominant-baseline="central" font-weight="400">charge</text>
+<text x="638" y="284" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="17" fill="#1F2A44" text-anchor="end" dominant-baseline="central" font-weight="400">+1</text>
+<rect x="660" y="244" width="190" height="58" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="672" y="260" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="15" fill="#6B7280" text-anchor="start" dominant-baseline="central" font-weight="400">pt</text>
+<text x="838" y="260" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="17" fill="#1F2A44" text-anchor="end" dominant-baseline="central" font-weight="400">11.2</text>
+<text x="672" y="284" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="15" fill="#6B7280" text-anchor="start" dominant-baseline="central" font-weight="400">charge</text>
+<text x="838" y="284" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="17" fill="#1F2A44" text-anchor="end" dominant-baseline="central" font-weight="400">-1</text>
+<text x="460" y="328" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" fill="#6B7280" text-anchor="start" dominant-baseline="central" font-weight="400">each lepton also has eta, phi and mass</text>
+</svg>

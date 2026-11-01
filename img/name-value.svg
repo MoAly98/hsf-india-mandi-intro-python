@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 200" width="960" height="200">
+<rect x="1" y="1" width="958" height="198" rx="14" fill="#FAF9F6" stroke="#E4E2DC" stroke-width="1.5"/>
+<text x="250" y="60" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">name</text>
+<rect x="170" y="82" width="160" height="62" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<text x="250.0" y="113.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="26" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="500">pt</text>
+<line x1="342" y1="113" x2="548" y2="113" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="548.0,113.0 538.1,117.8 538.1,108.2" fill="#6B7280"/>
+<text x="445" y="92" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">refers to</text>
+<text x="640" y="60" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">value</text>
+<rect x="560" y="82" width="160" height="62" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="640.0" y="113.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="26" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="500">63.0</text>
+</svg>

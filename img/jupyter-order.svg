@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 270" width="960" height="270">
+<rect x="1" y="1" width="958" height="268" rx="14" fill="#FAF9F6" stroke="#E4E2DC" stroke-width="1.5"/>
+<text x="200" y="30" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">cells on the page</text>
+<rect x="60" y="54" width="290" height="54" rx="8" fill="#F0F1F4" stroke="#B9C0CC" stroke-width="2"/>
+<text x="80" y="81" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="22" fill="#1F2A44" text-anchor="start" dominant-baseline="central" font-weight="400">x = 1</text>
+<text x="40" y="81" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#D9691E" text-anchor="end" dominant-baseline="central" font-weight="600">1</text>
+<rect x="60" y="128" width="290" height="54" rx="8" fill="#F0F1F4" stroke="#B9C0CC" stroke-width="2"/>
+<text x="80" y="155" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="22" fill="#1F2A44" text-anchor="start" dominant-baseline="central" font-weight="400">x = x + 10</text>
+<text x="40" y="155" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#D9691E" text-anchor="end" dominant-baseline="central" font-weight="600">2</text>
+<text x="660" y="30" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">what Python remembers</text>
+<text x="540" y="79" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="end" dominant-baseline="central" font-weight="400">run cell 1</text>
+<rect x="560" y="54" width="200" height="50" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="660.0" y="79.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">x = 1</text>
+<text x="540" y="145" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="end" dominant-baseline="central" font-weight="400">run cell 2</text>
+<rect x="560" y="120" width="200" height="50" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="660.0" y="145.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">x = 11</text>
+<text x="540" y="211" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="end" dominant-baseline="central" font-weight="400">run cell 2 again</text>
+<rect x="560" y="186" width="200" height="50" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<text x="660.0" y="211.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">x = 21</text>
+<text x="450" y="250" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">the order you run cells in matters, not their order on the page</text>
+</svg>

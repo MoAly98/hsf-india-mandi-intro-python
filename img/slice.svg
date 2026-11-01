@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 240" width="960" height="240">
+<rect x="1" y="1" width="958" height="238" rx="14" fill="#FAF9F6" stroke="#E4E2DC" stroke-width="1.5"/>
+<text x="240.0" y="119" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="24" fill="#1F2A44" text-anchor="end" dominant-baseline="central" font-weight="600">pts</text>
+<rect x="264.0" y="88" width="140" height="62" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<text x="334.0" y="119.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="25" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">63.0</text>
+<rect x="410.0" y="88" width="140" height="62" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<text x="480.0" y="119.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="25" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">38.1</text>
+<rect x="556.0" y="88" width="140" height="62" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="626.0" y="119.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="25" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">4.0</text>
+<text x="334.0" y="58" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#D9691E" text-anchor="middle" dominant-baseline="central" font-weight="600">0</text>
+<text x="480.0" y="58" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#D9691E" text-anchor="middle" dominant-baseline="central" font-weight="600">1</text>
+<text x="626.0" y="58" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#D9691E" text-anchor="middle" dominant-baseline="central" font-weight="600">2</text>
+<text x="736.0" y="58" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="start" dominant-baseline="central" font-weight="400">index</text>
+<path d="M262.0,170 v14 H552.0 v-14" fill="none" stroke="#D9691E" stroke-width="3" stroke-linecap="round"/>
+<text x="407.0" y="208" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="20" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">pts[0:2]  starts at 0, stops before 2</text>
+</svg>

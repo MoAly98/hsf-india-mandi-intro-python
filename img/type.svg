@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 230" width="960" height="230">
+<rect x="1" y="1" width="958" height="228" rx="14" fill="#FAF9F6" stroke="#E4E2DC" stroke-width="1.5"/>
+<rect x="140" y="50" width="160" height="64" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<text x="220.0" y="82.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="26" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">4</text>
+<line x1="220" y1="122" x2="220" y2="158" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="220.0,158.0 215.2,148.1 224.8,148.1" fill="#6B7280"/>
+<text x="220" y="182" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="19" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">four events</text>
+<rect x="360" y="50" width="160" height="64" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<text x="440.0" y="82.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="26" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">var</text>
+<line x1="440" y1="122" x2="440" y2="158" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="440.0,158.0 435.2,148.1 444.8,148.1" fill="#6B7280"/>
+<text x="440" y="182" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="19" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">a variable number in each</text>
+<rect x="640" y="50" width="160" height="64" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<text x="720.0" y="82.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="26" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">float64</text>
+<line x1="720" y1="122" x2="720" y2="158" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="720.0,158.0 715.2,148.1 724.8,148.1" fill="#6B7280"/>
+<text x="720" y="182" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="19" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">of decimal numbers</text>
+<text x="330" y="82" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="28" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">*</text>
+<text x="580" y="82" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="28" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">*</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 230" width="960" height="230">
+<rect x="1" y="1" width="958" height="228" rx="14" fill="#FAF9F6" stroke="#E4E2DC" stroke-width="1.5"/>
+<rect x="28.0" y="60" width="196" height="84" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="126.0" y="102.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">select leptons</text>
+<text x="126.0" y="172" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="17" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">pt and eta cuts</text>
+<text x="126.0" y="36" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="600">1</text>
+<line x1="230.0" y1="102.0" x2="258.0" y2="102.0" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="258.0,102.0 248.1,106.8 248.1,97.2" fill="#6B7280"/>
+<rect x="264.0" y="60" width="196" height="84" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="362.0" y="102.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">keep 4-lepton events</text>
+<text x="362.0" y="172" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="17" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">ak.num</text>
+<text x="362.0" y="36" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="600">2</text>
+<line x1="466.0" y1="102.0" x2="494.0" y2="102.0" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="494.0,102.0 484.1,106.8 484.1,97.2" fill="#6B7280"/>
+<rect x="500.0" y="60" width="196" height="84" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="598.0" y="102.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">form groups of four</text>
+<text x="598.0" y="172" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="17" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">ak.combinations</text>
+<text x="598.0" y="36" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="600">3</text>
+<line x1="702.0" y1="102.0" x2="730.0" y2="102.0" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="730.0,102.0 720.1,106.8 720.1,97.2" fill="#6B7280"/>
+<rect x="736.0" y="60" width="196" height="84" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<text x="834.0" y="102.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">add and take .mass</text>
+<text x="834.0" y="172" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="17" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">vector</text>
+<text x="834.0" y="36" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="600">4</text>
+</svg>

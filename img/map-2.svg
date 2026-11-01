@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 230" width="960" height="230">
+<rect x="1" y="1" width="958" height="228" rx="14" fill="#FAF9F6" stroke="#E4E2DC" stroke-width="1.5"/>
+<rect x="20.0" y="60" width="152" height="80" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="96.0" y="100.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">Python</text>
+<text x="96.0" y="166" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">one event at a time</text>
+<line x1="178.0" y1="100.0" x2="206.0" y2="100.0" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="206.0,100.0 196.1,104.8 196.1,95.2" fill="#6B7280"/>
+<text x="96.0" y="36" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="600">Lesson 1</text>
+<rect x="212.0" y="60" width="152" height="80" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<text x="288.0" y="100.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">NumPy</text>
+<text x="288.0" y="166" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">one column at a time</text>
+<line x1="370.0" y1="100.0" x2="398.0" y2="100.0" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="398.0,100.0 388.1,104.8 388.1,95.2" fill="#6B7280"/>
+<text x="288.0" y="36" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" fill="#D9691E" text-anchor="middle" dominant-baseline="central" font-weight="600">Lesson 2</text>
+<rect x="404.0" y="60" width="152" height="80" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="480.0" y="100.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">Classes</text>
+<text x="480.0" y="166" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">data with methods</text>
+<line x1="562.0" y1="100.0" x2="590.0" y2="100.0" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="590.0,100.0 580.1,104.8 580.1,95.2" fill="#6B7280"/>
+<text x="480.0" y="36" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="600">Lesson 3</text>
+<rect x="596.0" y="60" width="152" height="80" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="672.0" y="100.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">Awkward</text>
+<text x="672.0" y="166" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">columns of lists</text>
+<line x1="754.0" y1="100.0" x2="782.0" y2="100.0" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="782.0,100.0 772.1,104.8 772.1,95.2" fill="#6B7280"/>
+<text x="672.0" y="36" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="600">Lesson 4</text>
+<rect x="788.0" y="60" width="152" height="80" rx="8" fill="#FAF9F6" stroke="#B9C0CC" stroke-width="2" stroke-dasharray="6 6"/>
+<text x="864.0" y="100.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#B9C0CC" text-anchor="middle" dominant-baseline="central" font-weight="600">Analysis</text>
+<text x="864.0" y="166" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">later lectures</text>
+</svg>

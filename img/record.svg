@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" width="960" height="300">
+<rect x="1" y="1" width="958" height="298" rx="14" fill="#FAF9F6" stroke="#E4E2DC" stroke-width="1.5"/>
+<text x="192" y="70" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="end" dominant-baseline="central" font-weight="400">event 0</text>
+<rect x="210" y="44" width="166" height="52" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="224" y="60" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="15" fill="#6B7280" text-anchor="start" dominant-baseline="central" font-weight="400">pt</text>
+<text x="362" y="60" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="end" dominant-baseline="central" font-weight="400">63.0</text>
+<text x="224" y="81" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="15" fill="#6B7280" text-anchor="start" dominant-baseline="central" font-weight="400">charge</text>
+<text x="362" y="81" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="end" dominant-baseline="central" font-weight="400">1</text>
+<rect x="386" y="44" width="166" height="52" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="400" y="60" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="15" fill="#6B7280" text-anchor="start" dominant-baseline="central" font-weight="400">pt</text>
+<text x="538" y="60" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="end" dominant-baseline="central" font-weight="400">38.1</text>
+<text x="400" y="81" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="15" fill="#6B7280" text-anchor="start" dominant-baseline="central" font-weight="400">charge</text>
+<text x="538" y="81" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="end" dominant-baseline="central" font-weight="400">-1</text>
+<rect x="562" y="44" width="166" height="52" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="576" y="60" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="15" fill="#6B7280" text-anchor="start" dominant-baseline="central" font-weight="400">pt</text>
+<text x="714" y="60" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="end" dominant-baseline="central" font-weight="400">4.0</text>
+<text x="576" y="81" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="15" fill="#6B7280" text-anchor="start" dominant-baseline="central" font-weight="400">charge</text>
+<text x="714" y="81" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="end" dominant-baseline="central" font-weight="400">1</text>
+<text x="192" y="130" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="end" dominant-baseline="central" font-weight="400">event 1</text>
+<text x="214" y="130" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="19" fill="#6B7280" text-anchor="start" dominant-baseline="central" font-weight="400">[ ]</text>
+<text x="192" y="190" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="end" dominant-baseline="central" font-weight="400">event 2</text>
+<rect x="210" y="164" width="166" height="52" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="224" y="180" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="15" fill="#6B7280" text-anchor="start" dominant-baseline="central" font-weight="400">pt</text>
+<text x="362" y="180" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="end" dominant-baseline="central" font-weight="400">54.3</text>
+<text x="224" y="201" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="15" fill="#6B7280" text-anchor="start" dominant-baseline="central" font-weight="400">charge</text>
+<text x="362" y="201" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="end" dominant-baseline="central" font-weight="400">1</text>
+<rect x="386" y="164" width="166" height="52" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="400" y="180" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="15" fill="#6B7280" text-anchor="start" dominant-baseline="central" font-weight="400">pt</text>
+<text x="538" y="180" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="end" dominant-baseline="central" font-weight="400">23.5</text>
+<text x="400" y="201" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="15" fill="#6B7280" text-anchor="start" dominant-baseline="central" font-weight="400">charge</text>
+<text x="538" y="201" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="end" dominant-baseline="central" font-weight="400">-1</text>
+<text x="192" y="250" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="end" dominant-baseline="central" font-weight="400">event 3</text>
+<rect x="210" y="224" width="166" height="52" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="224" y="240" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="15" fill="#6B7280" text-anchor="start" dominant-baseline="central" font-weight="400">pt</text>
+<text x="362" y="240" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="end" dominant-baseline="central" font-weight="400">41.2</text>
+<text x="224" y="261" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="15" fill="#6B7280" text-anchor="start" dominant-baseline="central" font-weight="400">charge</text>
+<text x="362" y="261" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="end" dominant-baseline="central" font-weight="400">-1</text>
+<text x="760" y="70" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#D9691E" text-anchor="start" dominant-baseline="central" font-weight="600">one record</text>
+<text x="760" y="96" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#D9691E" text-anchor="start" dominant-baseline="central" font-weight="600">= one muon</text>
+<text x="760" y="150" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="start" dominant-baseline="central" font-weight="400">fields</text>
+<text x="760" y="178" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="19" fill="#1F2A44" text-anchor="start" dominant-baseline="central" font-weight="400">pt, charge</text>
+</svg>

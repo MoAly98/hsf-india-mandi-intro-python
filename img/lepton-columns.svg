@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 280" width="960" height="280">
+<rect x="1" y="1" width="958" height="278" rx="14" fill="#FAF9F6" stroke="#E4E2DC" stroke-width="1.5"/>
+<rect x="40" y="106" width="110" height="62" rx="8" fill="#2F6FDE" stroke="#2F6FDE" stroke-width="2"/>
+<text x="95.0" y="137.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="24" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central" font-weight="600">e1</text>
+<rect x="210" y="40" width="130" height="50" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<text x="275.0" y="65.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="20" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">"pt"</text>
+<line x1="156" y1="137" x2="202" y2="65" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="202.0,65.0 200.7,75.9 192.6,70.8" fill="#6B7280"/>
+<line x1="346" y1="65" x2="382" y2="65" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="382.0,65.0 372.1,69.8 372.1,60.2" fill="#6B7280"/>
+<rect x="390" y="40" width="88" height="50" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="434.0" y="65.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">5.47</text>
+<rect x="484" y="40" width="88" height="50" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="528.0" y="65.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">39.45</text>
+<rect x="578" y="40" width="88" height="50" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="622.0" y="65.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">48.01</text>
+<rect x="672" y="40" width="88" height="50" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="716.0" y="65.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">42.66</text>
+<rect x="766" y="40" width="88" height="50" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="810.0" y="65.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">...</text>
+<rect x="210" y="112" width="130" height="50" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<text x="275.0" y="137.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="20" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">"eta"</text>
+<line x1="156" y1="137" x2="202" y2="137" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="202.0,137.0 192.1,141.8 192.1,132.2" fill="#6B7280"/>
+<line x1="346" y1="137" x2="382" y2="137" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="382.0,137.0 372.1,141.8 372.1,132.2" fill="#6B7280"/>
+<rect x="390" y="112" width="88" height="50" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="434.0" y="137.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">1.68</text>
+<rect x="484" y="112" width="88" height="50" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="528.0" y="137.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">0.32</text>
+<rect x="578" y="112" width="88" height="50" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="622.0" y="137.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">1.95</text>
+<rect x="672" y="112" width="88" height="50" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="716.0" y="137.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">0.78</text>
+<rect x="766" y="112" width="88" height="50" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="810.0" y="137.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">...</text>
+<rect x="210" y="184" width="130" height="50" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<text x="275.0" y="209.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="20" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">"charge"</text>
+<line x1="156" y1="137" x2="202" y2="209" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="202.0,209.0 192.6,203.2 200.7,198.1" fill="#6B7280"/>
+<line x1="346" y1="209" x2="382" y2="209" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="382.0,209.0 372.1,213.8 372.1,204.2" fill="#6B7280"/>
+<rect x="390" y="184" width="88" height="50" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="434.0" y="209.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">-1</text>
+<rect x="484" y="184" width="88" height="50" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="528.0" y="209.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">-1</text>
+<rect x="578" y="184" width="88" height="50" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="622.0" y="209.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">1</text>
+<rect x="672" y="184" width="88" height="50" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="716.0" y="209.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">-1</text>
+<rect x="766" y="184" width="88" height="50" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="810.0" y="209.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="18" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">...</text>
+<text x="625.0" y="262" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">one entry per event, 30,868 events</text>
+</svg>

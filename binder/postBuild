@@ -1,0 +1,6 @@
+#!/bin/bash
+# Switch off the JupyterLab news pop-up, which would cover the slides.
+set -e
+settings="$(python -c 'import sys; print(sys.prefix)')/share/jupyter/lab/settings"
+mkdir -p "$settings"
+cp binder/overrides.json "$settings/overrides.json"

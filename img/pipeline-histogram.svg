@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 230" width="960" height="230">
+<rect x="1" y="1" width="958" height="228" rx="14" fill="#FAF9F6" stroke="#E4E2DC" stroke-width="1.5"/>
+<rect x="31.0" y="56" width="190" height="84" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="126.0" y="98.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="25" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">read</text>
+<text x="126.0" y="168" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">file to arrays</text>
+<text x="126.0" y="32" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="600">1</text>
+<line x1="229.0" y1="98.0" x2="259.0" y2="98.0" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="259.0,98.0 249.1,102.8 249.1,93.2" fill="#6B7280"/>
+<rect x="267.0" y="56" width="190" height="84" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="362.0" y="98.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="25" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">select</text>
+<text x="362.0" y="168" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">keep what we want</text>
+<text x="362.0" y="32" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="600">2</text>
+<line x1="465.0" y1="98.0" x2="495.0" y2="98.0" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="495.0,98.0 485.1,102.8 485.1,93.2" fill="#6B7280"/>
+<rect x="503.0" y="56" width="190" height="84" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="598.0" y="98.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="25" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">compute</text>
+<text x="598.0" y="168" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">build a quantity</text>
+<text x="598.0" y="32" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="600">3</text>
+<line x1="701.0" y1="98.0" x2="731.0" y2="98.0" stroke="#6B7280" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="731.0,98.0 721.1,102.8 721.1,93.2" fill="#6B7280"/>
+<rect x="739.0" y="56" width="190" height="84" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<text x="834.0" y="98.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="25" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">histogram</text>
+<text x="834.0" y="168" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">count and plot</text>
+<text x="834.0" y="32" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#D9691E" text-anchor="middle" dominant-baseline="central" font-weight="600">4</text>
+</svg>

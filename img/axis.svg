@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 330" width="960" height="330">
+<rect x="1" y="1" width="958" height="328" rx="14" fill="#FAF9F6" stroke="#E4E2DC" stroke-width="1.5"/>
+<rect x="250" y="60" width="110" height="52" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="305.0" y="86.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">63.0</text>
+<rect x="366" y="60" width="110" height="52" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="421.0" y="86.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">38.1</text>
+<rect x="482" y="60" width="110" height="52" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="537.0" y="86.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">4.0</text>
+<text x="228" y="86.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="19" fill="#6B7280" text-anchor="end" dominant-baseline="central" font-weight="400">event 0</text>
+<rect x="250" y="118" width="110" height="52" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="305.0" y="144.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">54.3</text>
+<rect x="366" y="118" width="110" height="52" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="421.0" y="144.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">23.5</text>
+<rect x="482" y="118" width="110" height="52" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="537.0" y="144.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">52.9</text>
+<text x="228" y="144.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="19" fill="#6B7280" text-anchor="end" dominant-baseline="central" font-weight="400">event 1</text>
+<line x1="606" y1="86.0" x2="688" y2="86.0" stroke="#D9691E" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="688.0,86.0 678.1,90.8 678.1,81.2" fill="#D9691E"/>
+<rect x="698" y="60" width="110" height="52" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="753.0" y="86.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">105.1</text>
+<line x1="606" y1="144.0" x2="688" y2="144.0" stroke="#D9691E" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="688.0,144.0 678.1,148.8 678.1,139.2" fill="#D9691E"/>
+<rect x="698" y="118" width="110" height="52" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="753.0" y="144.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">130.7</text>
+<text x="753.0" y="36" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="19" fill="#D9691E" text-anchor="middle" dominant-baseline="central" font-weight="600">sum(axis=1)</text>
+<text x="828" y="115" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="start" dominant-baseline="central" font-weight="400">one per event</text>
+<line x1="305.0" y1="182" x2="305.0" y2="232" stroke="#D9691E" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="305.0,232.0 300.2,222.1 309.8,222.1" fill="#D9691E"/>
+<rect x="250" y="240" width="110" height="52" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="305.0" y="266.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">117.3</text>
+<line x1="421.0" y1="182" x2="421.0" y2="232" stroke="#D9691E" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="421.0,232.0 416.2,222.1 425.8,222.1" fill="#D9691E"/>
+<rect x="366" y="240" width="110" height="52" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="421.0" y="266.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">61.6</text>
+<line x1="537.0" y1="182" x2="537.0" y2="232" stroke="#D9691E" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="537.0,232.0 532.2,222.1 541.8,222.1" fill="#D9691E"/>
+<rect x="482" y="240" width="110" height="52" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="537.0" y="266.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="400">56.9</text>
+<text x="228" y="266.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="19" fill="#D9691E" text-anchor="end" dominant-baseline="central" font-weight="600">sum(axis=0)</text>
+<text x="612" y="266.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="start" dominant-baseline="central" font-weight="400">one per column</text>
+</svg>
