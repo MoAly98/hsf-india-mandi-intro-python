@@ -4,7 +4,7 @@ from pathlib import Path
 import nox
 
 DIR = Path(__file__).parent.resolve()
-CONTENT = ["data", "img", "checks.py", *sorted(p.name for p in DIR.glob("lesson-*"))]
+CONTENT = ["data", "img", *sorted(p.name for p in DIR.glob("lesson-*"))]
 
 nox.needs_version = ">=2024.4.15"
 nox.options.default_venv_backend = "uv|virtualenv"
@@ -23,7 +23,7 @@ def pyodide(session: nox.Session) -> None:
         "jupyterlab-deck~=0.2.0",
     )
 
-    # Keep the lesson/data/img layout so "../data" paths and "import checks" work
+    # Keep the lesson/data/img layout so "../data" paths work
     content = DIR / "_content"
     shutil.rmtree(content, ignore_errors=True)
     for name in CONTENT:
