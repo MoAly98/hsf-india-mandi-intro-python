@@ -25,18 +25,15 @@ Worked solutions are in `solutions/`. Try for five minutes before you look.
 
 ## Run in the browser with Binder
 
-Replace `OWNER/REPO` with the location of this repository.
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OWNER/REPO/main?urlpath=lab/tree/1a-lecture-python.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MoAly98/hsf-india-mand-intro-python/main?urlpath=lab/tree/1a-lecture-python.ipynb)
 
 ## Run on your own computer
 
 ```shell
-git clone https://github.com/OWNER/REPO.git
-cd REPO
-conda env create -f binder/environment.yml
-conda activate hsf-india-python
-jupyter lab
+git clone https://github.com/MoAly98/hsf-india-mand-intro-python.git
+cd hsf-india-mand-intro-python
+pixi init --import binder/environment.yml
+pixi run jupyter lab
 ```
 
 ## Data
@@ -46,11 +43,3 @@ jupyter lab
 
 - `data/higgs_events.json`: the first 50,000 events as Python lists and dictionaries (project 1)
 - `data/higgs_eemumu.npz`: the 30,868 events with exactly two electrons and two muons, as flat arrays (projects 2 and 3)
-
-## For instructors
-
-`INSTRUCTOR.md` has the timing, the expected answers, and which lecture slide to revisit when the room gets stuck.
-
-- `checks.py` holds a short summary of each correct answer and a hint for each part.
-- `tools/make_diagrams.py` draws every diagram in `img/`.
-- `tools/run_notebooks.py` runs every lecture and solution and reports any failure. The GitHub workflow in `.github/workflows/notebooks.yml` runs it on every push.
