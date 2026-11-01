@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 240" width="960" height="240">
+<rect x="1" y="1" width="958" height="238" rx="14" fill="#FAF9F6" stroke="#E4E2DC" stroke-width="1.5"/>
+<text x="196" y="96" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="24" fill="#1F2A44" text-anchor="end" dominant-baseline="central" font-weight="600">pt</text>
+<rect x="220" y="65" width="120" height="62" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2.5"/>
+<text x="280" y="96" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="24" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">63.0</text>
+<rect x="340" y="65" width="120" height="62" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="400" y="96" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="24" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">38.1</text>
+<rect x="460" y="65" width="120" height="62" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="520" y="96" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="24" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">4.0</text>
+<rect x="580" y="65" width="120" height="62" rx="8" fill="#FFFFFF" stroke="#B9C0CC" stroke-width="2"/>
+<text x="640" y="96" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="24" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">54.3</text>
+<text x="280" y="152" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="20" fill="#6B7280" text-anchor="middle" dominant-baseline="central">0</text>
+<text x="400" y="152" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="20" fill="#6B7280" text-anchor="middle" dominant-baseline="central">1</text>
+<text x="520" y="152" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="20" fill="#6B7280" text-anchor="middle" dominant-baseline="central">2</text>
+<text x="640" y="152" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="20" fill="#6B7280" text-anchor="middle" dominant-baseline="central">3</text>
+<text x="710" y="152" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#6B7280" dominant-baseline="central">index</text>
+<text x="280" y="200" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#D9691E" text-anchor="middle" dominant-baseline="central" font-weight="600">np.argmax(pt) = 0</text>
+<text x="620" y="200" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="21" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">np.max(pt) = 63.0</text>
+</svg>

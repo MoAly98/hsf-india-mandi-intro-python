@@ -7,16 +7,24 @@ Across the projects you rebuild one analysis, the search for H → ZZ → 4 lept
 No earlier Python experience is assumed.
 The lessons prepare for the later lectures of the school on Awkward Array, HEP analysis and coffea.
 
-## The notebooks
+## The lessons
 
-| Lesson | Lecture | Project |
+Each `lesson-*` directory has
+
+- `lecture-slides.ipynb`: what the instructor presents
+- `lecture-workbook.ipynb`: what you open to follow along, with room to try things
+- `project-*.ipynb`: what you work through after the lecture
+
+| Lesson | Higgs project | Alternative project |
 |---|---|---|
-| 1. Python | `1a-lecture-python.ipynb` | `1b-project-python.ipynb`: one event at a time, in pure Python |
-| 2. NumPy | `2a-lecture-numpy.ipynb` | `2b-project-numpy.ipynb`: the same analysis on whole columns |
-| 3. Classes | `3a-lecture-classes.ipynb` | `3b-project-classes.ipynb`: a four-vector class and a coffea-style processor |
-| 4. Awkward Array | `4a-lecture-awkward.ipynb` | `4b-project-awkward.ipynb`: every muon in every event |
+| `lesson-1-python` | one event at a time, in pure Python | |
+| `lesson-2-numpy` | the same analysis on whole columns | `project-life`: Conway's Game of Life |
+| `lesson-3-classes` | a four-vector class that runs the whole analysis | `project-words`: counting words with classes |
+| `lesson-4-awkward` | every muon in every event | `project-storms`: 75 years of Atlantic hurricanes |
 
-The lectures are notebooks that also work as slides: click **Toggle Deck** in the notebook toolbar.
+Lessons 2 to 4 have two projects that teach the same moves. Do the one that appeals to you; the Higgs project continues the analysis.
+
+The slides are notebooks: click **Toggle Deck** in the notebook toolbar to present them.
 Every code cell on a slide can be run live.
 
 Each project is split into parts.
@@ -25,7 +33,7 @@ If you are stuck for more than five minutes, ask an instructor.
 
 ## Run in the browser with Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MoAly98/hsf-india-mand-intro-python/main?urlpath=lab/tree/1a-lecture-python.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MoAly98/hsf-india-mand-intro-python/main?urlpath=lab/tree/lesson-1-python/lecture-workbook.ipynb)
 
 ## Run on your own computer
 
@@ -42,3 +50,8 @@ pixi run jupyter lab
 
 - `data/higgs_events.json`: the first 50,000 events as Python lists and dictionaries (project 1)
 - `data/higgs_eemumu.npz`: the 30,868 events with exactly two electrons and two muons, as flat arrays (projects 2 and 3)
+
+It also downloads and prepares the data for the alternative projects, from public-domain sources:
+
+- `data/alice_chapters.json`: the chapters of *Alice's Adventures in Wonderland*, from [Project Gutenberg](https://www.gutenberg.org/ebooks/11)
+- `data/hurricanes.json`: every Atlantic storm since 1950, from the NOAA [HURDAT2](https://www.nhc.noaa.gov/data/) database

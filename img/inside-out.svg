@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 240" width="960" height="240">
+<rect x="1" y="1" width="958" height="238" rx="14" fill="#FAF9F6" stroke="#E4E2DC" stroke-width="1.5"/>
+<text x="170" y="60" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="24" fill="#1F2A44" text-anchor="start" dominant-baseline="central" font-weight="600">type(type(1)("2"))</text>
+<path d="M 260 80 L 260.0 96.0" stroke="#D9691E" stroke-width="3" fill="none"/>
+<path d="M 260 110 L 267.0 96.0 L 253.0 96.0 z" fill="#D9691E"/>
+<text x="280" y="122" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="20" fill="#6B7280" text-anchor="start" dominant-baseline="central">type(1) is int</text>
+<path d="M 260 134 L 260.0 146.0" stroke="#D9691E" stroke-width="3" fill="none"/>
+<path d="M 260 160 L 267.0 146.0 L 253.0 146.0 z" fill="#D9691E"/>
+<text x="280" y="172" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="20" fill="#6B7280" text-anchor="start" dominant-baseline="central">int("2") is 2</text>
+<path d="M 260 184 L 260.0 192.0" stroke="#D9691E" stroke-width="3" fill="none"/>
+<path d="M 260 206 L 267.0 192.0 L 253.0 192.0 z" fill="#D9691E"/>
+<text x="280" y="215" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="20" fill="#1F2A44" text-anchor="start" dominant-baseline="central" font-weight="600">type(2) is int</text>
+<rect x="620" y="80" width="260" height="90" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<text x="750" y="112" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">brackets evaluate</text>
+<text x="750" y="140" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">from the inside out</text>
+
+</svg>
