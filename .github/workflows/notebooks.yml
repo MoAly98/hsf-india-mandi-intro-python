@@ -17,7 +17,7 @@ jobs:
 
       - uses: mamba-org/setup-micromamba@v2
         with:
-          environment-file: binder/environment.yml
+          environment-file: environment.yml
 
       - name: Register graphviz plugins and start the dask cluster that lesson 5 connects to
         run: |
