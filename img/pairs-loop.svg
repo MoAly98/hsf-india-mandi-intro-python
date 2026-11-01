@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 250" width="960" height="250">
+<rect x="1" y="1" width="958" height="248" rx="14" fill="#FAF9F6" stroke="#E4E2DC" stroke-width="1.5"/>
+<text x="190" y="40" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">one event, three muons</text>
+<rect x="90" y="100" width="62" height="56" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="121.0" y="128.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="24" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">a</text>
+<rect x="162" y="100" width="62" height="56" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="193.0" y="128.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="24" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">b</text>
+<rect x="234" y="100" width="62" height="56" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="265.0" y="128.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="24" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">c</text>
+<line x1="320" y1="128" x2="440" y2="128" stroke="#D9691E" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="440.0,128.0 430.1,132.8 430.1,123.2" fill="#D9691E"/>
+<text x="380" y="104" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="17" fill="#D9691E" text-anchor="middle" dominant-baseline="central" font-weight="600">for i, for j</text>
+<text x="380" y="152" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="17" fill="#D9691E" text-anchor="middle" dominant-baseline="central" font-weight="600">if i &lt; j</text>
+<text x="690" y="40" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">every pair, each counted once</text>
+<rect x="470" y="96" width="134" height="64" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<rect x="478" y="106" width="54" height="44" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="505.0" y="128.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="22" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">a</text>
+<rect x="542" y="106" width="54" height="44" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="569.0" y="128.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="22" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">b</text>
+<rect x="620" y="96" width="134" height="64" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<rect x="628" y="106" width="54" height="44" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="655.0" y="128.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="22" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">a</text>
+<rect x="692" y="106" width="54" height="44" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="719.0" y="128.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="22" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">c</text>
+<rect x="770" y="96" width="134" height="64" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="2"/>
+<rect x="778" y="106" width="54" height="44" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="805.0" y="128.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="22" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">b</text>
+<rect x="842" y="106" width="54" height="44" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="2"/>
+<text x="869.0" y="128.0" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="22" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">c</text>
+<text x="690" y="196" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" fill="#6B7280" text-anchor="middle" dominant-baseline="central" font-weight="400">3 muons give 3 pairs, 4 give 6, 2 give 1, fewer give none</text>
+</svg>
