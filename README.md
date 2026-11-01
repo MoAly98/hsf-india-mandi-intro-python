@@ -2,29 +2,6 @@
 
 This repository contains everything you need to follow the "[Introduction to Scientific Python](https://indico.cern.ch/event/1724888/contributions/7255053/)" tutorial, presented at the [HSF-India Scientific Computing Workshop](https://indico.cern.ch/event/1724888/) at IIT Mandi on [Monday, November 2, 2026, 2–6 p.m. IST](https://indico.cern.ch/event/1724888/timetable/).
 
-## Internet connectivity
-
-> [!IMPORTANT]
-> **Strongly recommended: pre-download the lesson 4 taxi dataset before the tutorial.** The taxi project otherwise streams a 611 MB Parquet file during the tutorial, which depends on the venue's Wi-Fi.
-
-1. Set up the notebooks using one of the options below.
-2. Download the Chicago taxi Parquet file and place it at `lesson-4-awkward/chicago-taxi.parquet`.
-
-   with `curl`:
-   ```shell
-   curl -L -o lesson-4-awkward/chicago-taxi.parquet https://test-files.awkward-array.org/chicago-taxi.parquet
-   ```
-   or with `wget`:
-   ```shell
-   wget -O lesson-4-awkward/chicago-taxi.parquet https://test-files.awkward-array.org/chicago-taxi.parquet
-   ```
-   Then change the `"https://test-files.awkward-array.org/chicago-taxi.parquet"` strings in `lesson-4-awkward/project-1-taxi.ipynb` and `lesson-4-awkward/solutions-1-taxi.ipynb` to `"chicago-taxi.parquet"`.
-
-On BinderHub or MyBinder, run the download in a terminal inside your session, from the repository directory. The file is gone when the session ends, so download it again in a new session.
-JupyterLite has no terminal, so use one of the other options for the taxi project.
-
-With a local setup and those two steps done, you need **no internet at all** during the tutorial.
-
 ## Option 0: BinderHub (no installation)
 
 Go to the url below to launch a JupyterLab session in your browser, with no GPU, 4 CPUs and 4 GB of memory, using BinderHub:
