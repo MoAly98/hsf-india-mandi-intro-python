@@ -1,4 +1,4 @@
-# Environment for Binder, for local use and for the GitHub workflow.
+# Environment for Binder and for the GitHub workflow. Local use goes through pixi.toml, which lists the same packages.
 name: hsf-india-python
 channels:
   - conda-forge

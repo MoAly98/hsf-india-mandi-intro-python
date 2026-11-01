@@ -32,7 +32,6 @@ If you are stuck for more than five minutes, ask an instructor.
 ```shell
 git clone https://github.com/MoAly98/hsf-india-mand-intro-python.git
 cd hsf-india-mand-intro-python
-pixi init --import binder/environment.yml
 pixi run jupyter lab
 ```
 
