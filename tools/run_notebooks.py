@@ -15,7 +15,11 @@ import nbformat
 from nbclient import NotebookClient
 
 ROOT = Path(__file__).resolve().parent.parent
-notebooks = sorted(ROOT.glob("*a-lecture-*.ipynb")) + sorted((ROOT / "solutions").glob("*.ipynb"))
+notebooks = (
+    sorted(ROOT.glob("lesson-*/lecture-slides.ipynb"))
+    + sorted(ROOT.glob("lesson-*/lecture-workbook.ipynb"))
+    + sorted(ROOT.glob("lesson-*/solutions-*.ipynb"))
+)
 
 failures = []
 for path in notebooks:

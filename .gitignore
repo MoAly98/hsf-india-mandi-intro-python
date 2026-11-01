@@ -1,8 +1,9 @@
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
-solutions/
+lesson-*/solutions-*.ipynb
 INSTRUCTOR.md
 # pixi environments
 .pixi/*
 !.pixi/config.toml
+_local/

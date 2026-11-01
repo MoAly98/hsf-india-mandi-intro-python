@@ -7,16 +7,22 @@ Across the projects you rebuild one analysis, the search for H → ZZ → 4 lept
 No earlier Python experience is assumed.
 The lessons prepare for the later lectures of the school on Awkward Array, HEP analysis and coffea.
 
-## The notebooks
+## The lessons
 
-| Lesson | Lecture | Project |
-|---|---|---|
-| 1. Python | `1a-lecture-python.ipynb` | `1b-project-python.ipynb`: one event at a time, in pure Python |
-| 2. NumPy | `2a-lecture-numpy.ipynb` | `2b-project-numpy.ipynb`: the same analysis on whole columns |
-| 3. Classes | `3a-lecture-classes.ipynb` | `3b-project-classes.ipynb`: a four-vector class and a coffea-style processor |
-| 4. Awkward Array | `4a-lecture-awkward.ipynb` | `4b-project-awkward.ipynb`: every muon in every event |
+Each `lesson-*` directory has
 
-The lectures are notebooks that also work as slides: click **Toggle Deck** in the notebook toolbar.
+- `lecture-slides.ipynb`: what the instructor presents
+- `lecture-workbook.ipynb`: what you open to follow along, with room to try things
+- `project-*.ipynb`: what you work through after the lecture
+
+| Lesson | Project |
+|---|---|
+| `lesson-1-python` | one event at a time, in pure Python |
+| `lesson-2-numpy` | the same analysis on whole columns |
+| `lesson-3-classes` | a four-vector class and a chunked processor |
+| `lesson-4-awkward` | every muon in every event |
+
+The slides are notebooks: click **Toggle Deck** in the notebook toolbar to present them.
 Every code cell on a slide can be run live.
 
 Each project is split into parts.
@@ -25,7 +31,7 @@ If you are stuck for more than five minutes, ask an instructor.
 
 ## Run in the browser with Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MoAly98/hsf-india-mand-intro-python/main?urlpath=lab/tree/1a-lecture-python.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MoAly98/hsf-india-mand-intro-python/main?urlpath=lab/tree/lesson-1-python/lecture-workbook.ipynb)
 
 ## Run on your own computer
 
