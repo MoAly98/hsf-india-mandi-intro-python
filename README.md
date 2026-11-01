@@ -31,6 +31,35 @@ Each project is split into parts.
 Every part ends with a `check` cell that prints ✅ when your answer is right and a hint when it is not yet right.
 If you are stuck for more than five minutes, ask an instructor.
 
+## Option 0: BinderHub (no installation)
+
+Go to the url below to launch a JupyterLab session in your browser, with no GPU, 4 CPUs and 4 GB of memory, using BinderHub:
+
+```
+https://binderhub.ssl-hep.org/v2/gh/research-software-collaborations/courses-hsf-india-October2026/binder?gpuModel=&gpuCount=0&cudaMajor=undefined&cudaMinor=undefined&site=nrp&memory=4.0&cpu=4&qos=Guaranteed
+```
+
+<p align="center"><img src="https://github.com/jpivarski-talks/2024-05-22-hsf-india-tutorial-delhi/assets/1852447/9f57768b-7d3d-4b74-8364-c066fe352c39" width="75%"></p>
+
+This session comes with all dependencies pre-installed, but not with the notebooks.
+To get them, bring up a terminal by pressing the "Terminal" button:
+
+<p align="center"><img src="https://github.com/jpivarski-talks/2024-05-22-hsf-india-tutorial-delhi/assets/1852447/9efd21b4-1cd7-45b7-80d0-a20bb0c36ac4" width="75%"></p>
+
+Then clone this repository in that terminal with:
+
+```shell
+git clone https://github.com/MoAly98/hsf-india-mandi-scientific-python.git
+```
+
+<p align="center"><img src="https://github.com/jpivarski-talks/2024-05-22-hsf-india-tutorial-delhi/assets/1852447/89b5625b-c1db-44f7-8ce7-774ed592580e" width="75%"></p>
+
+Now there is a `hsf-india-mandi-scientific-python` directory in the file browser that you can double-click to open the notebooks.
+
+<p align="center"><img src="https://github.com/jpivarski-talks/2024-05-22-hsf-india-tutorial-delhi/assets/1852447/32497618-3df3-4718-b643-fa38d05d56fb" width="75%"></p>
+
+<p align="center"><img src="https://github.com/jpivarski-talks/2024-05-22-hsf-india-tutorial-delhi/assets/1852447/9d8df96b-a463-4702-9e40-c003dc5f8694" width="75%"></p>
+
 ## Option 1: MyBinder (no installation)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MoAly98/hsf-india-mandi-scientific-python/main?urlpath=lab/tree/lesson-1-python/lecture-workbook.ipynb)
