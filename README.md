@@ -15,12 +15,14 @@ Each `lesson-*` directory has
 - `lecture-workbook.ipynb`: what you open to follow along, with room to try things
 - `project-*.ipynb`: what you work through after the lecture
 
-| Lesson | Project |
-|---|---|
-| `lesson-1-python` | one event at a time, in pure Python |
-| `lesson-2-numpy` | the same analysis on whole columns |
-| `lesson-3-classes` | a four-vector class and a chunked processor |
-| `lesson-4-awkward` | every muon in every event |
+| Lesson | Higgs project | Alternative project |
+|---|---|---|
+| `lesson-1-python` | one event at a time, in pure Python | |
+| `lesson-2-numpy` | the same analysis on whole columns | `project-life`: Conway's Game of Life |
+| `lesson-3-classes` | a four-vector class and a chunked processor | `project-words`: a word-count processor on a book |
+| `lesson-4-awkward` | every muon in every event | `project-storms`: 75 years of Atlantic hurricanes |
+
+Lessons 2 to 4 have two projects that teach the same moves. Do the one that appeals to you; the Higgs project continues the analysis.
 
 The slides are notebooks: click **Toggle Deck** in the notebook toolbar to present them.
 Every code cell on a slide can be run live.
@@ -48,3 +50,8 @@ pixi run jupyter lab
 
 - `data/higgs_events.json`: the first 50,000 events as Python lists and dictionaries (project 1)
 - `data/higgs_eemumu.npz`: the 30,868 events with exactly two electrons and two muons, as flat arrays (projects 2 and 3)
+
+It also downloads and prepares the data for the alternative projects, from public-domain sources:
+
+- `data/alice_chapters.json`: the chapters of *Alice's Adventures in Wonderland*, from [Project Gutenberg](https://www.gutenberg.org/ebooks/11)
+- `data/hurricanes.json`: every Atlantic storm since 1950, from the NOAA [HURDAT2](https://www.nhc.noaa.gov/data/) database

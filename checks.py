@@ -40,6 +40,23 @@ EXPECTED = {
     '4.5': {"kind": "values", "count": 83063, "sum": 4614740.521448255},
     '4.6': {"kind": "values", "count": 224419, "sum": 10977311.885259122},
     '4.7': {"kind": "values", "count": 27496, "sum": 3318425.4526348114},
+    'life.1': {"kind": "number", "value": 25.0},
+    'life.2': {"kind": "values", "count": 4096, "sum": 200.0},
+    'life.3': {"kind": "values", "count": 4096, "sum": 38.0},
+    'life.4': {"kind": "values", "count": 4096, "sum": 92.0},
+    'words.1': {"kind": "dict", "value": {"alice": 2.0, "rabbit": 1.0}},
+    'words.2': {"kind": "dict", "value": {"alice": 3.0, "queen": 4.0, "rabbit": 1.0}},
+    'words.3': {"kind": "number", "value": 8.0},
+    'words.4': {"kind": "number", "value": 2163.0},
+    'words.5': {"kind": "number", "value": 691.0},
+    'words.6': {"kind": "number", "value": 8652.0},
+    'words.7': {"kind": "number", "value": 56.0},
+    'storms.1': {"kind": "number", "value": 279.0},
+    'storms.2': {"kind": "values", "count": 33647, "sum": 3066915.704},
+    'storms.3': {"kind": "values", "count": 1182, "sum": 77095.0},
+    'storms.4': {"kind": "values", "count": 8245, "sum": 703005.0},
+    'storms.5': {"kind": "values", "count": 508, "sum": 20981.0},
+    'storms.6': {"kind": "number", "value": 882.0},
 }
 
 HINTS = {
@@ -71,10 +88,27 @@ HINTS = {
     "4.5": "Add mu1 and mu2, then index with mu1.charge != mu2.charge.",
     "4.6": "The same as Part 5: add mu1 and mu2, then index with mu1.charge != mu2.charge.",
     "4.7": "Take the two electrons and two muons with [:, 0] and [:, 1], require opposite charges in both pairs, and take the mass of the sum of all four.",
+    "life.1": "world.sum() adds every 0 and 1 in the grid.",
+    "life.2": "Loop dy and dx over (-1, 0, 1), skip (0, 0), and add np.roll(np.roll(world, dy, axis=0), dx, axis=1) each time.",
+    "life.3": "survive = (world == 1) & ((neighbours == 2) | (neighbours == 3)), born = (world == 0) & (neighbours == 3). Return (survive | born).astype(np.int32).",
+    "life.4": "world = step_numpy(world), one hundred times, inside for _ in range(100).",
+    "words.1": "Store the argument: self.counts = counts. Then run the class cell again.",
+    "words.2": "Copy self.counts with dict(), add the other counts with merged.get(word, 0) + count, and return Tally(merged). Run the class cell again.",
+    "words.3": "Return sum(self.counts.values()). Run the class cell again.",
+    "words.4": "Loop over words(text) and count with counts.get(word, 0) + 1. Return Tally(counts).",
+    "words.5": 'Start from tally(text), keep the words with len(word) >= self.min_length, and return {"words": Tally(kept), "chapters": 1}.',
+    "words.6": "total = {key: total[key] + output[key] for key in total}",
+    "words.7": "Inside the new class: def __init__(self): super().__init__(min_length=9)",
+    "storms.1": "ak.num(storms.track) counts the points of every storm. ak.sum counts the True values of the >= 40 mask.",
+    "storms.2": "storms.track.wind * 1.852",
+    "storms.3": "ak.max(storms.track.wind, axis=1)",
+    "storms.4": "Index storms.track with the jagged mask storms.track.wind >= 64.",
+    "storms.5": "Index storms with the flat mask peak_wind >= 64.",
+    "storms.6": "lowest = ak.min(hurricanes.track.pressure, axis=1), then record_low = ak.min(lowest).",
 }
 
 # For these parts the check is given the whole collection and looks at one property.
-ATTRIBUTE = {"4.4": "pt", "4.5": "mass", "4.6": "mass"}
+ATTRIBUTE = {"4.4": "pt", "4.5": "mass", "4.6": "mass", "words.1": "counts", "words.2": "counts"}
 
 NOTES = {
     "1.3": "This electron pair has a mass close to the Z mass, 91 GeV.",
@@ -84,6 +118,8 @@ NOTES = {
     "3.4": "The same masses as project 2, now from your own class.",
     "3.6": "Ten chunks give the same answer as all events at once.",
     "4.7": "The same events as project 2, with no fixed number of leptons needed in the array.",
+    "life.4": "The puffer is flying left, leaving smoke behind.",
+    "storms.6": "That is Hurricane Wilma, 2005: the deepest Atlantic low on record.",
 }
 
 
