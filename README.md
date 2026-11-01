@@ -19,7 +19,7 @@ Each `lesson-*` directory has
 |---|---|---|
 | `lesson-1-python` | one event at a time, in pure Python | |
 | `lesson-2-numpy` | the same analysis on whole columns | `project-life`: Conway's Game of Life |
-| `lesson-3-classes` | a four-vector class and a chunked processor | `project-words`: a word-count processor on a book |
+| `lesson-3-classes` | a four-vector class that runs the whole analysis | `project-words`: counting words with classes |
 | `lesson-4-awkward` | every muon in every event | `project-storms`: 75 years of Atlantic hurricanes |
 
 Lessons 2 to 4 have two projects that teach the same moves. Do the one that appeals to you; the Higgs project continues the analysis.
