@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" width="960" height="300">
+<rect x="1" y="1" width="958" height="298" rx="14" fill="#FAF9F6" stroke="#E4E2DC" stroke-width="1.5"/>
+<text x="240" y="40" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">a loop over a list</text>
+<rect x="70" y="70" width="150" height="40" rx="8" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.5"/>
+<text x="145" y="90" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#6B7280" text-anchor="middle" dominant-baseline="central">what type is it?</text>
+<path d="M 224 90 L 248 90" stroke="#6B7280" stroke-width="2.5"/>
+<path d="M 252 90 l -10 -6 l 0 12 z" fill="#6B7280"/>
+<rect x="256" y="70" width="90" height="40" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="1.5"/>
+<text x="301" y="90" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="16" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">63.0</text>
+<path d="M 350 90 L 374 90" stroke="#6B7280" stroke-width="2.5"/>
+<path d="M 378 90 l -10 -6 l 0 12 z" fill="#6B7280"/>
+<rect x="382" y="70" width="64" height="40" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="1.5"/>
+<text x="414" y="90" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="16" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">× 2</text>
+<rect x="70" y="132" width="150" height="40" rx="8" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.5"/>
+<text x="145" y="152" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#6B7280" text-anchor="middle" dominant-baseline="central">what type is it?</text>
+<path d="M 224 152 L 248 152" stroke="#6B7280" stroke-width="2.5"/>
+<path d="M 252 152 l -10 -6 l 0 12 z" fill="#6B7280"/>
+<rect x="256" y="132" width="90" height="40" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="1.5"/>
+<text x="301" y="152" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="16" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">38.1</text>
+<path d="M 350 152 L 374 152" stroke="#6B7280" stroke-width="2.5"/>
+<path d="M 378 152 l -10 -6 l 0 12 z" fill="#6B7280"/>
+<rect x="382" y="132" width="64" height="40" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="1.5"/>
+<text x="414" y="152" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="16" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">× 2</text>
+<rect x="70" y="194" width="150" height="40" rx="8" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.5"/>
+<text x="145" y="214" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#6B7280" text-anchor="middle" dominant-baseline="central">what type is it?</text>
+<path d="M 224 214 L 248 214" stroke="#6B7280" stroke-width="2.5"/>
+<path d="M 252 214 l -10 -6 l 0 12 z" fill="#6B7280"/>
+<rect x="256" y="194" width="90" height="40" rx="8" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="1.5"/>
+<text x="301" y="214" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="16" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">4.0</text>
+<path d="M 350 214 L 374 214" stroke="#6B7280" stroke-width="2.5"/>
+<path d="M 378 214 l -10 -6 l 0 12 z" fill="#6B7280"/>
+<rect x="382" y="194" width="64" height="40" rx="8" fill="#FCE9D9" stroke="#D9691E" stroke-width="1.5"/>
+<text x="414" y="214" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="16" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">× 2</text>
+<text x="258" y="262" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#6B7280" text-anchor="middle" dominant-baseline="central">ask, compute, ask, compute … a million times</text>
+<line x1="492" y1="36" x2="492" y2="268" stroke="#B9C0CC" stroke-width="1.5"/>
+<text x="730" y="40" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#1F2A44" text-anchor="middle" dominant-baseline="central" font-weight="600">one NumPy array</text>
+<rect x="560" y="70" width="190" height="40" rx="8" fill="#FFFFFF" stroke="#6B7280" stroke-width="1.5"/>
+<text x="655" y="90" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#6B7280" text-anchor="middle" dominant-baseline="central">what type? float64 —</text>
+<text x="790" y="90" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1F2A44" text-anchor="start" dominant-baseline="central" font-weight="600">asked once</text>
+<rect x="560" y="150" width="85" height="44" rx="0" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="1.5"/>
+<text x="602" y="172" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="16" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">63.0</text>
+<rect x="645" y="150" width="85" height="44" rx="0" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="1.5"/>
+<text x="687" y="172" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="16" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">38.1</text>
+<rect x="730" y="150" width="85" height="44" rx="0" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="1.5"/>
+<text x="772" y="172" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="16" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">4.0</text>
+<rect x="815" y="150" width="85" height="44" rx="0" fill="#E3ECFB" stroke="#2F6FDE" stroke-width="1.5"/>
+<text x="857" y="172" font-family="SFMono-Regular, Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="16" fill="#1F2A44" text-anchor="middle" dominant-baseline="central">54.3</text>
+<path d="M 560 222 L 884 222" stroke="#D9691E" stroke-width="4" stroke-linecap="round"/>
+<path d="M 896 222 l -16 -9 l 0 18 z" fill="#D9691E"/>
+<text x="728" y="248" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#D9691E" text-anchor="middle" dominant-baseline="central" font-weight="600">× 2 in one compiled sweep, no more questions</text>
+</svg>
