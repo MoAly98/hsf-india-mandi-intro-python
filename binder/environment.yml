@@ -3,7 +3,7 @@ name: hsf-india-mandi-scientific-python
 channels:
   - conda-forge
 dependencies:
-  - python=3.14
+  - python=3.14.0
   - aiohttp>=3.14.5,<4
   - awkward>=2.14.0,<3
   - c-compiler>=2.0.0,<3
