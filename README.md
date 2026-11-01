@@ -21,7 +21,7 @@ Every code cell on a slide can be run live.
 
 Each project is split into parts.
 Every part ends with a `check` cell that prints ✅ when your answer is right and a hint when it is not yet right.
-Worked solutions are in `solutions/`. Try for five minutes before you look.
+If you are stuck for more than five minutes, ask an instructor.
 
 ## Run in the browser with Binder
 
