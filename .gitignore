@@ -7,3 +7,5 @@ INSTRUCTOR.md
 .pixi/*
 !.pixi/config.toml
 _local/
+data/alice_raw.txt
+data/hurdat2_raw.txt
