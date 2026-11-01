@@ -29,6 +29,13 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ---
 
-The Game of Life project is adapted from the HSF-India tutorial at
-https://github.com/henryiii/2026-10-12-hsf-india-tutorial-delhi,
-Copyright (c) 2023, jpivarski-talks, also under the BSD 3-Clause License.
+Parts of this material are adapted from two tutorials, both under the
+BSD 3-Clause License:
+
+- The Game of Life project and several diagrams are from the HSF-India
+  tutorial at https://github.com/henryiii/2026-10-12-hsf-india-tutorial-delhi,
+  Copyright (c) 2023, jpivarski-talks.
+- Several NumPy puzzles, their diagrams and the CMS photograph are from the
+  SciPy 2026 tutorial "Thinking in Arrays" at
+  https://github.com/jpivarski-talks/2026-07-14-scipy2026-tutorial-thinking-in-arrays,
+  Copyright (c) 2026, Iason Krommydas, Jim Pivarski, Peter Fackeldey.
