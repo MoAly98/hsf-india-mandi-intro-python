@@ -70,7 +70,32 @@ Click on the Binder badge above or go to the url below to launch a JupyterLab se
 https://mybinder.org/v2/gh/MoAly98/hsf-india-mandi-scientific-python/main?urlpath=lab/tree/lesson-1-python/lecture-workbook.ipynb
 ```
 
-## Option 2: run locally with `pixi`
+## Option 2: JupyterLite (no installation)
+
+Go to the url below to launch a JupyterLab session that runs Python entirely in your browser with [Pyodide](https://pyodide.org) and [JupyterLite](https://jupyterlite.readthedocs.io):
+
+```
+https://moaly98.github.io/hsf-india-mandi-scientific-python/lab/index.html
+```
+
+The notebooks are already there, but packages that Pyodide does not include need a `%pip install` in the notebook first.
+This line installs all of them:
+
+```python
+%pip install awkward uproot vector "hist[plot]" "mplhep<1.3" particle
+```
+
+(`mplhep<1.3` is needed because newer versions require a newer matplotlib than the one Pyodide provides.)
+
+Nothing is saved to the repository: your changes are kept in your browser's storage only.
+
+To build and serve the site on your own computer, make sure you've [installed uv](https://docs.astral.sh/uv/getting-started/installation/) and run:
+
+```shell
+uvx nox -s pyodide -- serve
+```
+
+## Option 3: run locally with `pixi`
 
 First, clone this repository.
 
@@ -87,7 +112,7 @@ Then you can install the environment and start a local JupyterLab session with:
 pixi run start
 ```
 
-## Option 3: run locally with `uv` or a standard Python `venv`
+## Option 4: run locally with `uv` or a standard Python `venv`
 
 Make sure you've [installed uv](https://docs.astral.sh/uv/getting-started/installation/) on your computer.
 
@@ -109,7 +134,7 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
-## Option 4: run locally with `conda`/`mamba`
+## Option 5: run locally with `conda`/`mamba`
 
 Make sure you've [installed Miniforge](https://conda-forge.org/download/) on your computer.
 
