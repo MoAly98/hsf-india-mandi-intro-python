@@ -81,6 +81,8 @@ This line installs all of them:
 
 (`mplhep<1.3` is needed because newer versions require a newer matplotlib than the one Pyodide provides.)
 
+Numba, JAX, pybind11, and `dask.distributed` do not work in the browser, so use another option for lesson 5.
+
 Nothing is saved to the repository: your changes are kept in your browser's storage only.
 
 To build and serve the site on your own computer, make sure you've [installed uv](https://docs.astral.sh/uv/getting-started/installation/) and run:
@@ -128,6 +130,8 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
+Lesson 5 also needs a C and C++ compiler and [Graphviz](https://graphviz.org/download/) installed on your computer, which `pip` cannot install. JAX does not provide wheels for Intel Macs, so it is skipped there.
+
 ## Option 5: run locally with `conda`/`mamba`
 
 Make sure you've [installed Miniforge](https://conda-forge.org/download/) on your computer.
@@ -139,3 +143,5 @@ conda env create -f environment.yml
 conda activate hsf-india-mandi-scientific-python
 jupyter lab
 ```
+
+JAX is installed with `pip` inside the environment, because conda-forge has no Windows build of it, and it is skipped on Intel Macs, which it does not provide wheels for.

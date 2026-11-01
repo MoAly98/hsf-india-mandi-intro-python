@@ -4,3 +4,6 @@ set -e
 settings="$(python -c 'import sys; print(sys.prefix)')/share/jupyter/lab/settings"
 mkdir -p "$settings"
 cp binder/overrides.json "$settings/overrides.json"
+
+# Register the graphviz plugins, which lesson 5 needs for dask's .visualize().
+dot -c

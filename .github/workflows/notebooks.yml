@@ -19,5 +19,12 @@ jobs:
         with:
           environment-file: binder/environment.yml
 
+      - name: Register graphviz plugins and start the dask cluster that lesson 5 connects to
+        run: |
+          dot -c
+          nohup dask scheduler > dask-scheduler.log 2>&1 &
+          sleep 5
+          for i in 1 2; do nohup dask worker --nthreads 1 127.0.0.1:8786 > dask-worker-$i.log 2>&1 & done
+
       - name: Run every lecture and solution
         run: python tools/run_notebooks.py
