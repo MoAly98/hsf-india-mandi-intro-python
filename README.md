@@ -20,7 +20,7 @@ Each `lesson-*` directory has
 | `lesson-1-python` | one event at a time, in pure Python | |
 | `lesson-2-numpy` | the same analysis on whole columns | `project-life`: Conway's Game of Life |
 | `lesson-3-classes` | a four-vector class that runs the whole analysis | `project-words`: counting words with classes |
-| `lesson-4-awkward` | every muon in every event | `project-storms`: 75 years of Atlantic hurricanes |
+| `lesson-4-awkward` | every combination of leptons in every event | `project-1-taxi`: path lengths of Chicago taxi trips |
 
 Lessons 2 to 4 have two projects that teach the same moves. Do the one that appeals to you; the Higgs project continues the analysis.
 
@@ -100,7 +100,6 @@ jupyter lab
 - `data/higgs_events.json`: the first 50,000 events as Python lists and dictionaries (project 1)
 - `data/higgs_eemumu.npz`: the 30,868 events with exactly two electrons and two muons, as flat arrays (projects 2 and 3)
 
-It also downloads and prepares the data for the alternative projects, from public-domain sources:
+It also downloads and prepares the data for the word-count project, from a public-domain source:
 
 - `data/alice_chapters.json`: the chapters of *Alice's Adventures in Wonderland*, from [Project Gutenberg](https://www.gutenberg.org/ebooks/11)
-- `data/hurricanes.json`: every Atlantic storm since 1950, from the NOAA [HURDAT2](https://www.nhc.noaa.gov/data/) database
