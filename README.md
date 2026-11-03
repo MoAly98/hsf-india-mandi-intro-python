@@ -58,7 +58,7 @@ This line installs all of them:
 
 (`mplhep<1.3` is needed because newer versions require a newer matplotlib than the one Pyodide provides.)
 
-Numba, JAX, pybind11, and `dask.distributed` do not work in the browser, so use another option for lesson 5.
+Numba, JAX, pybind11, `dask.distributed`, and coffea (which needs Numba) do not work in the browser, so use another option for lessons 5 and 6.
 
 Nothing is saved to the repository: your changes are kept in your browser's storage only.
 

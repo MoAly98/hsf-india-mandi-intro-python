@@ -7,6 +7,7 @@ dependencies:
   - awkward>=2.14.0,<3
   - c-compiler>=2.0.0,<3
   - coffea>=2026.9.0,<2027
+  - correctionlib>=2.9.0,<3
   - cxx-compiler>=2.0.0,<3
   - dask>=2026.8.0,<2027
   - distributed>=2026.8.0,<2027
@@ -29,6 +30,7 @@ dependencies:
   - pyarrow>=26.0.0,<27
   - pybind11>=3.1.0,<4
   - python-graphviz>=0.21,<0.22
+  - rich>=15.0.0,<16
   - scipy>=1.18.1,<2
   - uproot>=5.7.7,<6
   - vector>=1.9.0,<2
