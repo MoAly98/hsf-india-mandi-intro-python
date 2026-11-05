@@ -31,6 +31,8 @@ Now there is a `hsf-india-mandi-scientific-python` directory in the file browser
 
 <p align="center"><img src="https://github.com/jpivarski-talks/2024-05-22-hsf-india-tutorial-delhi/assets/1852447/9d8df96b-a463-4702-9e40-c003dc5f8694" width="75%"></p>
 
+The hackathon notebook, `hackathon/tag_and_probe.ipynb`, only works in this BinderHub session: it reads its input files from `/data/mandi26`, which only exists there.
+
 ## Option 1: MyBinder (no installation)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MoAly98/hsf-india-mandi-scientific-python/main?urlpath=lab/tree/lesson-1-python/lecture-workbook.ipynb)
